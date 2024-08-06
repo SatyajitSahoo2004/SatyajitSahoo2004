@@ -18,6 +18,7 @@
 - 💌 My lover is Python but my 👫 is Javascript.
 - 🔭: In my free time, I explore physics and astronomy.
 - 🔌 Fun Fact - Electricity does not travel inside wires.😕
+- Now my one project is going on.The project name is my-portfolio website
 
 
 <h3 align="left">Connect with me:</h3>
