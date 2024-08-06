@@ -15,7 +15,7 @@
 
 - 📄 Now i am a fresher.
 -  ⚡: I’m a Full Stack Developer who is biased towards Backend Development. I ❤️ to make and break   systems while reducing their prices.
-- 💌 My lover is Golang but my 👫 is Javascript.
+- 💌 My lover is Python but my 👫 is Javascript.
 - 🔭: In my free time, I explore physics and astronomy.
 - 🔌 Fun Fact - Electricity does not travel inside wires.😕
 
