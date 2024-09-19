@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajitsahoo2004&label=Profile%20views&color=0e75b6&style=flat" alt="satyajitsahoo2004" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,Javascript,PHP,MYSQL,Wordpress**
+- 🌱 I’m currently learning **HTML,CSS,Python,MYSQL**
 
-- 💬 Ask me about **Web Developement**
+- 💬 Ask me about **Full stack Developement**
 
 - 📫 How to reach me **sahoosatyajit021@gmail.com**
 
 - 📄 Now i am a fresher.
 -  ⚡: I’m a Full Stack Developer who is biased towards Backend Development. I ❤️ to make and break   systems while reducing their prices.
-- 💌 My lover is Python but my 👫 is Javascript.
+- 💌 My lover is Sql but my 👫 is   Python.
 - 🔭: In my free time, I explore physics and astronomy.
 - 🔌 Fun Fact - Electricity does not travel inside wires.😕
 -  My  another one project is progress now.The project name is my-portfolio-website.
