@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajitsahoo2004&label=Profile%20views&color=0e75b6&style=flat" alt="satyajitsahoo2004" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,Python,MYSQL**
+- 🌱 I’m currently learning **HTML,CSS,Python,SQL,Data Analysis**
 
-- 💬 Ask me about **Full stack Developement**
+- 💬 Ask me about **Full stack Developement & Data Analysis**
 
 - 📫 How to reach me **sahoosatyajit021@gmail.com**
 
@@ -18,7 +18,7 @@
 - 💌 My lover is Sql but my 👫 is   Python.
 - 🔭: In my free time, I explore physics and astronomy.
 - 🔌 Fun Fact - Electricity does not travel inside wires.😕
--  My  another one project is progress now.The project name is my-portfolio-website.
+-  My  another one project is progress now.The project name is Real Estate management Sustem.
 
 
 <h3 align="left">Connect with me:</h3>
